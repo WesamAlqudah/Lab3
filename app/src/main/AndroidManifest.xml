@@ -25,6 +25,9 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name=".CreateUserActivity"/>
+        <activity android:name=".ShoppingCategoryActivity"/>
+
     </application>
 
 </manifest>
